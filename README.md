@@ -1,5 +1,4 @@
 #  👾 COVID-19 Vaccine Rollout Checker 🦠
-===================================================
 
 **Developed by Paula Prieto (AUG 2021)**
 
